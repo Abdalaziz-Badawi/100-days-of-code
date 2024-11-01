@@ -1,7 +1,7 @@
 ## Links
 
 - X @Archiver_Merlin
-- Linkedin Abdalaziz-Badawi|[www.linkedin.com/in/abdalaziz-badawi]
+- Linkedin @[Abdalaziz-Badawi|www.linkedin.com/in/abdalaziz-badawi]
 - Gmail
 - 
 
