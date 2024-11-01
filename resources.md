@@ -9,8 +9,9 @@
 2. [Build a Laravel CRUD Application from scratch](https://www.codewall.co.uk/laravel-crud-demo-with-resource-controller-tutorial/)
 
 ## Projects and Ideas
-1. [FreeCodeCamp](https://www.freecodecamp.com)
-2. [The Odin Project](http://www.theodinproject.com/)
+1. Writers App
+2. Focus App
+3. ---
 
 
 ## Books (both coding and non-coding)
