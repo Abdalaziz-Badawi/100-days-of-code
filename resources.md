@@ -11,7 +11,9 @@
 ## Projects and Ideas
 1. Writers App
 2. Focus App
-3. ---
+3. DigitalMe App
+4. 
+
 
 
 ## Books (both coding and non-coding)
