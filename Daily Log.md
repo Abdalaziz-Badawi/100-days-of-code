@@ -11,3 +11,10 @@
 
 
 
+### Day 1 - (Review)
+
+**Today's Progress:** Review Python
+Data types, Strings, Numbers, Lists, Dictionaries, Files, Statements, Loops
+
+**Thoughts:**
+
